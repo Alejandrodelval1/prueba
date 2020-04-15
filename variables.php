@@ -6,7 +6,7 @@
 <body>
 <h1> Ejemplo variables</h1>
 <?php 
-$nombre="Alex";
+$nombre="Don alejandro";
 echo "Hola, $nombre <br>";
 echo 'Hola,$nombre'; // diferente con comillas simple y dobles con dobles comprueba si hay referencias de variasbles o quieres concatenar
  ?>
